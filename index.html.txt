@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phương Honda - Sửa Xe Tận Nhà</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e7f3fe;
+            border: 1px solid #b3d4fc;
+            border-radius: 5px;
+        }
+        .contact a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Phương Honda</h1>
+        <p>Uy Tín - Nhiệt Tình - Tận Tâm - Chất Lượng</p>
+    </header>
+
+    <section>
+        <h2>Về Chúng Tôi</h2>
+        <p>Phương Honda là địa chỉ tin cậy tại Quận 12, TP.HCM, chuyên cung cấp các dịch vụ sửa chữa và bảo trì xe máy. Với đội ngũ kỹ thuật viên chuyên nghiệp, chúng tôi cam kết mang đến sự hài lòng tối đa cho khách hàng.</p>
+    </section>
+
+    <section>
+        <h2>Dịch Vụ</h2>
+        <ul>
+            <li><strong>Sửa xe tận nhà 24/7:</strong> Hỗ trợ nhanh chóng, mọi lúc, mọi nơi.</li>
+            <li><strong>Bảo trì định kỳ xe máy:</strong> Đảm bảo xe của bạn luôn trong tình trạng tốt nhất.</li>
+            <li><strong>Thay thế phụ tùng chính hãng:</strong> Đảm bảo chất lượng và tuổi thọ xe máy.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Liên Hệ</h2>
+        <p><strong>Địa chỉ:</strong> 185 Khu phố 3, Đường TX52, Phường Thạnh Xuân, Quận 12, TP.HCM</p>
+        <p><strong>Hotline & Zalo:</strong> <a href="tel:0922722012">0922722012</a></p>
+        <p><strong>Thời gian làm việc:</strong> 24/7</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Phương Honda. All rights reserved.</p>
+    </footer>
+</body>
+</html>
